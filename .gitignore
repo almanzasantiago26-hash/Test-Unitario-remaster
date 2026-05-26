@@ -1,0 +1,12 @@
+# Node
+node/node_modules/
+node/coverage/
+
+# C# build artifacts
+**/bin/
+**/obj/
+**/*.user
+
+# OS
+.DS_Store
+Thumbs.db
